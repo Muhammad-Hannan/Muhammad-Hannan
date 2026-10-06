@@ -4,7 +4,7 @@
 
 ### Ph.D. Candidate • Hydrologist • Water Resources Researcher
 
-**Satellite Hydrology | Machine Learning for Downscaling | Remote Sensing | GRACE/GRACE-FO Analysis**
+**Satellite Hydrology | Machine Learning for Downscaling | Remote Sensing | Applied Hydrologist**
 
 College of Hydrology and Water Resources, Hohai University, Nanjing, China
 
@@ -37,9 +37,9 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 
 | Degree | Institution | Period | Honors |
 |---|---|---:|---|
-| **Ph.D.** — Hydrology & Water Resources | Hohai University, Nanjing, China | 2024–2028 | First-Class Scholarship |
-| **M.S.** — Integrated Water Resource Management | USPCAS-W, Mehran University of Eng. & Tech., Jamshoro | 2022–2024 | 1st Position (CGPA 4.0/4.0) |
-| **B.Sc. (Hons.)** — Agriculture Water Management | Bahauddin Zakariya University, Multan | 2018–2022 | 2nd Position (CGPA 3.94/4.0) |
+| **Ph.D.** — Hydrology & Water Resources | Hohai University, Nanjing, China | 2024–2028 |
+| **M.S.** — Integrated Water Resource Management | USPCAS-W, Mehran University of Eng. & Tech., Jamshoro | 2022–2024 |
+| **B.Sc. (Hons.)** — Agriculture Water Management | Bahauddin Zakariya University, Multan | 2018–2022 | 2nd Position |
 
 ---
 
@@ -50,9 +50,7 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 *Apr 2024 – Present*
 
 - Develop convolutional and recurrent neural networks for improved groundwater downscaling
-- Quantify impacts of large water bodies (e.g., Poyang Lake) on traditional downscaling methodologies
-- Process multi-source satellite datasets (GRACE-FO, Landsat, Sentinel-2) via Google Earth Engine
-- Co-author peer-reviewed publications in hydrology and remote sensing journals
+- Quantify impacts of large water bodies on traditional downscaling methodologies
 
 ### Research Assistant
 **U.S.-Pakistan Center for Advanced Studies in Water (USPCAS-W), MUET**  
@@ -60,14 +58,12 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 
 - Conducted impact assessment of small dams under Sindh Resilience Project
 - Directed groundwater data collection at multiple dam sites; managed field campaigns
-- Mentored postgraduate students in hydrological research and field methodologies
 
 ### Training Coordinator
 **U.S.-Pakistan Center for Advanced Studies in Water (USPCAS-W), MUET**  
 *Oct 2023 – May 2024*
 
 - Designed and delivered training workshops on IWRM, hydrology, GIS, remote sensing, and climate change impacts
-- Conducted capacity building for farmers and water management practitioners
 - Topics: Hydraulic structures, Google Earth Engine, on-farm water management, RO plant operation
 
 ### Intern — On-Farm Water Management
@@ -75,7 +71,6 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 *Jan 2022 – Jun 2022*
 
 - Designed high-efficiency pressurized irrigation systems (drip and sprinkler networks)
-- Supervised watercourse lining and rehabilitation projects
 - Facilitated formation of Water User Associations for community-based water governance
 
 ### Trainee Officer — Agricultural Extension
@@ -84,8 +79,6 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 
 - Promoted improved wheat varieties among farming communities
 - Conducted farmer training sessions and field demonstrations
-
----
 
 ## Technical Competencies
 
@@ -101,55 +94,11 @@ GRACE/GRACE-FO time-series analysis • Google Earth Engine • Landsat and Sent
 ### Water Engineering & Management
 Pressurized irrigation design • Drip and sprinkler irrigation systems • Hydraulic structure design • Soil and water conservation • Water quality sampling and analysis • Farmer engagement and participatory approaches
 
----
-
-## Publications (16 Total)
-
-### First-Author Publications
-
-1. **Hannan, M.**, Lu, C., Ali, M., Hor, V., & Saidy, E. (2027). Machine-learning downscaling of GRACE reveals groundwater depletion hotspots in Pakistan's Indus Basin. *Earth Systems and Environment*. *(Submitted)*
-
-2. **Hannan, M.**, & Lu, C. (2026). Opportunities and limitations of GRACE for hydrological monitoring in regions with sparse observations. *Journal of Hydrologic Engineering*, 29(6), 05026XXX. *(Accepted)*
-
-3. **Hannan, M.**, Waqas, M., Ali, M., Chand, S., Kandhro, M. A., & Khalid, M. U. Understanding the spatiotemporal hydrological variability and anthropogenic drivers of change in Pakistan's Indus Basin. *Earth Sciences Pakistan*, 10(1), 47–57.
-
-4. **Hannan, M.**, Ali, M., Lu, C., & Xu, J. (2026). Hydrological variability and flood-driven connectivity in a data-scarce wetland revealed by long-term satellite observations. *Hydrological Processes*, 40(3), e70474.
-
-5. **Hannan, M.**, Ali, M., Lu, C., & Xu, J. (2026). Hydroclimatic variability and precipitation extremes in Sindh under a changing climate. *Advances in Environmental and Engineering Research*, 7(1), 1–15.
-
-6. **Hannan, M.**, Lu, C., Waqas, M., Khan, A. U., & Liu, B. (2025). Regional heterogeneity in groundwater response driven by land-use transitions across Pakistan. *Journal of Hydrology: Regional Studies*, 62, 102958.
-
-7. **Hannan, M.**, Dars, G. H., Ukasha, M., & Ansari, K. (2024). Spatiotemporal dynamics of groundwater storage in Pakistan from gravimetric observations. *Journal of Hydrologic Engineering*, 29(6), 05024021.
-
-8. **Hannan, M.**, & Dars, G. H. (2024). Assessment of Pakistan's water storage changes using GRACE satellite. *Technical Journal*, 3(ICACEE), 922–929.
-
-9. **Hannan, M.**, Ahmed, W., & William, A. (2025). Iron oxide nanoparticles for efficient removal of arsenic from contaminated groundwater. *Annual Methodological Archive Research Review*.
-
----
-
-### Co-Author Publications
-
-10. Kandhro, M. A., **Hannan, M.**, Qureshi, A. L., Gul, N., & Suleman, M. (2026). Evaluating water requirements and yield response of wheat varieties under canal and marginal groundwater irrigation. *Journal of Irrigation and Drainage Engineering*, 152(5), 05026003.
-
-11. Waqas, M., **Hannan, M.**, Lu, C., & Rauf, A. U. (2025). Determining flood return periods in River Swat through statistical approaches. *Journal of Advanced Engineering and Management Research*.
-
-12. Yu, X., Lu, C., Park, E., Zhang, Y., Wu, C., Li, Z., Chen, J., **Hannan, M.**, Liu, B., & Shu, L. (2025). Groundwater storage response to extreme hydrological events in Poyang Lake, China's largest fresh-water lake. *Remote Sensing*, 17(6), 988.
-
-13. Rafy, A. U., **Hannan, M.**, Mohammed, M., & Khan, N. (2025). Meta-analysis of alternate wetting and drying (AWD) irrigation effects on methane and nitrous oxide emissions across different climates and soil types. *European Journal of Ecology, Biology and Agriculture*, 2(5), 181–200.
-
-14. Ali, M., Bhutto, S., **Hannan, M.**, & Xu, J. (2025). A multi-index remote sensing approach to track water shifts in Handero Lake. *International Journal of Advanced Engineering and Management Research*.
-
-15. Rafy, A. U., **Hannan, M.**, Chand, M. T., Farid, N., Suleman, M., & Khalid, M. U. (2025). Arsenic accumulation in rice and maize crops and associated human health risks in Punjab, Pakistan. *International Journal of Environmental Sciences & Natural Resources*.
-
-16. Ali, M., **Hannan, M.**, & Ahmed, W. (2025). Cascading risks and adaptive deficits: A review of climate change impacts on Pakistan's water security. *European Journal of Theoretical and Applied Sciences*.
-
----
-
 ## Research Highlights
 
 ### Groundwater Depletion Monitoring via Satellite Gravimetry
-- Analyzed 20+ years of GRACE/GRACE-FO data to characterize groundwater storage changes across Pakistan's Indus Basin
-- Developed machine-learning downscaling algorithms to improve spatial resolution from ~150 km to ~25 km
+- Analyzed 20+ years of GRACE/GRACE-FO data to characterize groundwater storage changes
+- Developed machine-learning downscaling algorithms to improve spatial resolution
 - Identified hydrological hotspots of groundwater depletion and recovery patterns
 
 ### AI-Driven Hydrological Downscaling
@@ -167,25 +116,6 @@ Pressurized irrigation design • Drip and sprinkler irrigation systems • Hydr
 - Evaluated cascading risks to Pakistan's water security under compound extremes
 - Contributed to climate adaptation and resilience planning frameworks
 
----
-
-## Achievements & Recognition
-
-- **First-Class Scholarship** — Hohai University Ph.D. Program in Hydrology and Water Resources (2024–2028)
-- **1st Position** — M.S. Integrated Water Resource Management, USPCAS-W, MUET (CGPA 4.0/4.0)
-- **2nd Position** — B.Sc. (Hons.) Agriculture Water Management, Bahauddin Zakariya University (CGPA 3.94/4.0)
-- **Prime Minister's Youth Laptop Scheme Recipient** (2023) — Recognition of academic merit and innovation
-- **16+ peer-reviewed publications** in international journals across hydrology, remote sensing, and water resources
-- **Mentored multiple postgraduate and undergraduate students** in applied hydrology, GIS, and field research
-
----
-
-## Languages
-
-- **English** — Fluent (academic and professional)
-- **Urdu** — Native speaker
-
----
 
 ## Contact & Professional Links
 
