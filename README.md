@@ -35,11 +35,11 @@ I am a Ph.D. candidate in Hydrology and Water Resources at Hohai University inve
 
 ## Education
 
-| Degree | Institution | Period | Honors |
-|---|---|---:|---|
+| Degree | Institution | Period |
+|---|---|---:|
 | **Ph.D.** — Hydrology & Water Resources | Hohai University, Nanjing, China | 2024–2028 |
 | **M.S.** — Integrated Water Resource Management | USPCAS-W, Mehran University of Eng. & Tech., Jamshoro | 2022–2024 |
-| **B.Sc. (Hons.)** — Agriculture Water Management | Bahauddin Zakariya University, Multan | 2018–2022 | 2nd Position |
+| **B.Sc. (Hons.)** — Agriculture Water Management | Bahauddin Zakariya University, Multan | 2018–2022 |
 
 ---
 
